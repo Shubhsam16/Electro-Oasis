@@ -1,0 +1,286 @@
+/* Global Styles */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.billing-container {
+    /* background-color:#579ce5; */
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.billing-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.billing-header h2 {
+    margin: 0;
+}
+
+.qr-code-container {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.qr-code {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
+
+.billing-form {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.billing-form h3 {
+    margin-top: 0;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group label {
+    margin-bottom: 10px;
+}
+
+.form-group input, .form-group select, .form-group textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.terms {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.terms a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.submit-btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.submit-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Responsive Design with @media tags */
+
+/* Large Devices (Desktops, 992px and up) */
+@media (min-width: 992px) {
+    .billing-container {
+        max-width: 800px;
+        padding: 30px;
+    }
+    .billing-form {
+        padding: 30px;
+    }
+    .form-group input, .form-group select, .form-group textarea {
+        padding: 15px;
+    }
+    .submit-btn {
+        padding: 15px 30px;
+    }
+}
+
+/* Medium Devices (Tablets, 768px to 991px) */
+ @media (min-width: 768px) and (max-width: 991px) {
+    .billing-container {
+        max-width: 700px;
+        padding: 25px;
+    }
+    .billing-form {
+        padding: 25px;
+    }
+    .form-group input, .form-group select, .form-group textarea {
+        padding: 12px;
+    }
+    .submit-btn {
+        padding: 12px 25px;
+    }
+    .qr-code-container {
+        margin-left: 10px;
+    }
+}
+
+/* Small Devices (Smartphones, 576px to 767px) */
+@media (min-width: 576px) and (max-width: 767px) {
+    .billing-container {
+        max-width: 600px;
+        padding: 20px;
+    }
+    .billing-form {
+        padding: 20px;
+    }
+    .form-group input, .form-group select, .form-group textarea {
+        padding: 10px;
+    }
+    .submit-btn {
+        padding: 10px 20px;
+    }
+    .qr-code-container {
+        margin-left: 5px;
+    }
+    .billing-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .qr-code-container {
+        margin: 10px 0;
+    }
+} 
+
+/* Extra Small Devices (Smartphones, 480px to 575px) - Continued */
+
+@media (min-width: 480px) and (max-width: 575px) {
+    .billing-container {
+        max-width: 500px;
+        padding: 15px;
+    }
+    .billing-form {
+        padding: 15px;
+    }
+    .form-group input, .form-group select, .form-group textarea {
+        padding: 8px;
+        font-size: 14px;
+    }
+    .submit-btn {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+    .billing-header h2 {
+        font-size: 18px;
+    }
+}
+
+/* Small Devices (Smartphones, 320px to 479px) */
+@media (min-width: 320px) and (max-width: 479px) {
+    .billing-container {
+        max-width: 450px;
+        padding: 10px;
+    }
+    .billing-form {
+        padding: 10px;
+    }
+    .form-group input, .form-group select, .form-group textarea {
+        padding: 5px;
+        font-size: 12px;
+    }
+    .submit-btn {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+    .billing-header h2 {
+        font-size: 16px;
+    }
+    .qr-code-container {
+        width: 80px;
+        height: 80px;
+        margin: 5px 0;
+    }
+    .qr-code {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+/* Extra Small Devices (Smartphones, 240px to 319px) */
+@media (min-width: 240px) and (max-width: 319px) {
+    .billing-container {
+        max-width: 400px;
+        padding: 8px;
+    }
+    .billing-form {
+        padding: 8px;
+    }
+    .form-group input, .form-group select, .form-group textarea {
+        padding: 3px;
+        font-size: 10px;
+    }
+    .submit-btn {
+        padding: 3px 8px;
+        font-size: 10px;
+    }
+    .billing-header h2 {
+        font-size: 14px;
+    }
+    .qr-code-container {
+        width: 60px;
+        height: 60px;
+        margin: 3px 0;
+    }
+    .qr-code {
+        width: 40px;
+        height: 40px;
+    }
+}
+
+/* Ultra Small Devices (Smartphones, less than 240px) */
+@media (max-width: 239px) {
+    .billing-container {
+        max-width: 350px;
+        padding: 5px;
+    }
+    .billing-form {
+        padding: 5px;
+    }
+    .form-group input, .form-group select, .form-group textarea {
+        padding: 2px;
+        font-size: 9px;
+    }
+    .submit-btn {
+        padding: 2px 5px;
+        font-size: 9px;
+    }
+    .billing-header h2 {
+        font-size: 12px;
+    }
+    .qr-code-container {
+        width: 40px;
+        height: 40px;
+        margin: 2px 0;
+    }
+    .qr-code {
+        width: 30px;
+        height: 30px;
+    }
+}
+

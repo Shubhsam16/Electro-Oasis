@@ -1,0 +1,1395 @@
+{
+    "categories": [
+      {
+        "id": "1",
+        "name": "Smartphones",
+        "image":"image/i/category-phone/category-phone-480.png",
+        "products": [
+          {
+            "id": "101",
+            "name": "iPhone 13",
+            "description": "Latest iPhone model",
+            "price": 999,
+            "specs": {
+              "Display": "6.1 inches",
+              "Processor": "A15 Bionic Chip",
+              "RAM": "6GB",
+              "Storage": "128GB"
+            },
+            "image": "image/i/category-phone/category-phone-480.png",
+            "stock": 50
+          },
+          {
+            "id": "102",
+            "name": "Samsung Galaxy S22",
+            "description": "Latest Samsung flagship",
+            "price": 899,
+            "specs": {
+              "Display": "6.2 inches",
+              "RAM": "8GB",
+              "Processor": "A15 Bionic Chip",
+              "Storage": "256GB"
+            },
+            "image": "image/i/category-phone/P005.png",
+            "stock": 30
+          },
+          {
+            "id": "103",
+            "name": "Nothing PHONE 1",
+            "image"
+: "image/i/category-phone/P003 copy.png",
+            "description": "Latest Samsung flagship",
+            "price": 499.99,
+            "stock": 100,
+            "specs"
+: {
+              "Display": "15 inches, Full HD",
+              "Processor": "Intel Core i5",
+              "RAM": "8GB, 16GB",
+              "Storage": "256GB, 512GB SSD"
+            }
+          },
+          {
+            "id": "104",
+            "name": "Apple iPhone 13 Pro",
+            "image"
+: "image/i/category-phone/P004 copy.png",
+            "description": "Latest Samsung flagship",
+            "price": 999.99,
+            "stock": 50,
+            "specs"
+: {
+              "Display": "6.1 inches, Super Retina XDR",
+              "Processor": "A15 Bionic Chip",
+              "RAM": "6GB",
+              "Storage": "128GB, 256GB, 512GB"
+            }
+          },
+          {
+            "id": "105",
+            "name": "Samsung Galaxy S22 Ultra",
+            "image"
+: "image/i/category-phone/P005.png",
+            "description": "Latest Samsung flagship",
+            "price": 899.99,
+            "stock": 75,
+            "specs"
+: {
+              "Display": "6.8 inches, Dynamic AMOLED",
+              "Processor": "Qualcomm Snapdragon 8 Gen 1",
+              "RAM": "8GB, 12GB",
+              "Storage": "128GB, 256GB, 512GB"
+            }
+          },
+          {
+            "id": "106",
+            "name": "Google Pixel 6 Pro",
+            "image"
+: "image/i/category-phone/P006.png",
+            "description": "Latest Samsung flagship",
+            "price": 799.99,
+            "stock": 40,
+            "specs"
+: {
+              "Display": "6.7 inches, OLED",
+              "Processor": "Google Tensor Chip",
+              "RAM": "12GB",
+              "Storage": "128GB, 256GB, 512GB"
+            }
+          },
+          {
+            "id": "107",
+            "name": "OnePlus 9 Pro",
+            "image"
+: "",
+            "description": "Latest Samsung flagship","price"
+: 699.99,
+            "stock": 60,
+            "specs"
+: {
+              "Display": "6.7 inches, AMOLED",
+              "Processor": "Qualcomm Snapdragon 888",
+              "RAM": "6GB, 8GB, 12GB",
+              "Storage": "128GB, 256GB"
+            }
+          },
+          {
+            "id": "108",
+            "name": "Xiaomi Mi 11 Ultra",
+            "image"
+: "image/i/category-phone/P008.jpeg",
+            "description": "Latest Samsung flagship","price"
+: 649.99,
+            "stock": 80,
+            "specs"
+: {
+              "Display": "6.81 inches, AMOLED",
+              "Processor": "Qualcomm Snapdragon 888",
+              "RAM": "8GB, 12GB",
+              "Storage": "128GB, 256GB"
+            }
+          },
+          {
+            "id": "109",
+            "name": "Oppo Find X4 Pro",
+            "image"
+: "image/i/category-phone/P009 - Copy.png",
+            "description": "Latest Samsung flagship","price"
+: 799.99,
+            "stock": 45,
+            "specs"
+: {
+              "Display": "6.7 inches, AMOLED",
+              "Processor": "Qualcomm Snapdragon 8 Gen 1",
+              "RAM": "8GB, 12GB",
+              "Storage": "256GB, 512GB"
+            }
+          },
+          {
+            "id": "110",
+            "name": "Vivo X80 Pro",
+            "image"
+: "image/i/category-phone/P010.png",
+            "description": "Latest Samsung flagship","price"
+: 749.99,
+            "stock": 55,
+            "specs"
+: {
+              "Display": "6.78 inches, AMOLED",
+              "Processor": "Qualcomm Snapdragon 8 Gen 1",
+              "RAM": "8GB, 12GB",
+              "Storage": "256GB, 512GB"
+            }
+          },
+          {
+            "id": "111",
+            "name": "Huawei P40 Pro",
+            "image"
+: "image/i/category-phone/P011 - Copy.png",
+            "description": "Latest Samsung flagship","price"
+: 699.99,
+            "stock": 50,
+            "specs"
+: {
+              "Display": "6.5 inches, OLED",
+              "Processor": "HiSilicon Kirin 990 5G",
+              "RAM": "8GB, 16GB",
+              "Storage": "128GB, 256GB, 512GB"
+            }
+          },
+          {
+            "id": "112",
+            "name": "Asus ROG Phone 3",
+            "image"
+: "https://via.placeholder.com/200x250/8BC34A/FFFFFF?text=Asus+ROG+Phone+3",
+            "description": "Latest Samsung flagship","price"
+: 799.99,
+            "stock": 40,
+            "specs"
+: {
+              "Display": "6.55 inches, AMOLED",
+              "Processor": "Qualcomm Snapdragon 888",
+              "RAM": "8GB, 12GB",
+              "Storage": "128GB, 256GB"
+            }
+          },
+          {
+            "id": "113",
+            "name": "LG G8X ThinQ",
+            "image"
+: "https://via.placeholder.com/200x250/2196F3/FFFFFF?text=LG+G8X+Thinq",
+            "description": "Latest Samsung flagship","price"
+: 599.99,
+            "stock": 60,
+            "specs"
+: {
+              "Display": "6.4 inches, OLED",
+              "Processor": "Qualcomm Snapdragon 855",
+              "RAM": "6GB",
+              "Storage": "128GB"
+            }
+          },
+          {
+            "id": "114",
+            "name": "Motorola Razr 2022",
+            "image"
+: "https://via.placeholder.com/200x250/FFC107/FFFFFF?text=Motorola+Razr+2022",
+            "description": "Latest Samsung flagship","price"
+: 899.99,
+            "stock": 30,
+            "specs"
+: {
+              "Display": "6.2 inches, OLED (primary), 2.7 inches, OLED (secondary)",
+              "Processor": "Qualcomm Snapdragon 8 Gen 1",
+              "RAM": "8GB",
+              "Storage": "128GB, 256GB"
+            }
+          },
+          {
+            "id": "115",
+            "name": "Sony Xperia 1 III",
+            "image"
+: "https://via.placeholder.com/200x250/0070FF/FFFFFF?text=Sony+Xperia+1+III",
+            "description": "Latest Samsung flagship","price"
+: 799.99,
+            "stock": 45,
+            "specs"
+: {
+              "Display": "6.1 inches, OLED",
+              "Processor": "Qualcomm Snapdragon 888",
+              "RAM": "12GB",
+              "Storage": "256GB, 512GB"
+            }
+          },
+          {
+            "id": "116",
+            "name": "Google Pixel 5a",
+            "image"
+: "https://via.placeholder.com/200x250/34A853/FFFFFF?text=Google+Pixel+5a",
+            "description": "Latest Samsung flagship","price"
+: 499.99,
+            "stock": 70,
+            "specs"
+: {
+              "Display": "6.0 inches, OLED",
+              "Processor": "Qualcomm Snapdragon 765G",
+              "RAM": "6GB",
+              "Storage": "128GB"
+            }
+          },
+          {
+            "id": "117",
+            "name": "Samsung Galaxy A53 5G",
+            "image"
+: "https://via.placeholder.com/200x250/34A85A/FFFFFF?text=Samsung+Galaxy+A53+5G",
+            "description": "Latest Samsung flagship","price"
+: 449.99,
+            "stock": 80,
+            "specs"
+: {
+              "Display": "6.5 inches, Super AMOLED",
+              "Processor": "Qualcomm Snapdragon 778G",
+              "RAM": "6GB, 8GB",
+              "Storage": "128GB, 256GB"
+            }
+          },
+          {
+            "id": "118",
+            "name": "OnePlus Nord N200 5G",
+            "image": "https://via.placeholder.com/200x250/000000/FFFFFF?text=OnePlus+Nord+N200+5G",
+            "description": "Latest Samsung flagship",
+            "price": 399.99,
+            "stock": 90,
+            "specs"
+: {
+              "Display": "6.49 inches, LCD",
+              "Processor": "Qualcomm Snapdragon 480 5G",
+              "RAM": "4GB, 6GB",
+              "Storage": "64GB, 128GB"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Smartwatches",
+        "image":"image/i/category-watch/category-watch-480.png",
+        "products": [
+          {
+            "id": "201",
+            "name": "Apple Watch Series 7",
+            "description": "Latest Apple Watch model",
+            "price": 399,
+            "specs": {
+              "Display": "1.7 inches",
+              "Battery Life": "Up to 18 hours"
+            },
+            "image": "applewatch7.jpg",
+            "stock": 20
+          },
+          {
+            "id": "202",
+            "name": "Fossil Gen 5",
+            "description": "Stylish smartwatch",
+            "price": 295,
+            "specs": {
+              "Display": "1.3 inches",
+              "Battery Life": "Up to 24 hours"
+            },
+            "image": "fossilgen5.jpg",
+            "stock": 40
+          }, 
+          {
+            "id": "203",
+            "name": "Samsung Galaxy Watch4",
+            "description": "Advanced health monitoring",
+            "price": 329,
+            "specs": {
+              "Display": "1.4 inches",
+              "Battery Life": "Up to 40 hours"
+            },
+            "image": "samsunggalaxywatch4.jpg",
+            "stock": 30
+          },
+          {
+            "id": "204",
+            "name": "Garmin Forerunner 945",
+            "description": "GPS smartwatch for athletes",
+            "price": 649,
+            "specs": {
+              "Display": "1.2 inches",
+              "Battery Life": "Up to 2 weeks"
+            },
+            "image": "garminforerunner945.jpg",
+            "stock": 15
+          },
+          {
+            "id": "205",
+            "name": "Huawei Watch GT 2",
+            "description": "Long-lasting smartwatch",
+            "price": 229,
+            "specs": {
+              "Display": "1.2 inches",
+              "Battery Life": "Up to 2 weeks"
+            },
+            "image": "huaweigt2.jpg",
+            "stock": 25
+          },
+          {
+            "id": "206",
+            "name": "Fitbit Sense",
+            "description": "Advanced wellness tracking",
+            "price": 299,
+            "specs": {
+              "Display": "1.58 inches",
+              "Battery Life": "Up to 6 days"
+            },
+            "image": "fitbitsense.jpg",
+            "stock": 35
+          },
+          {
+            "id": "207",
+            "name": "TicWatch E3",
+            "description": "Affordable Wear OS smartwatch",
+            "price": 199,
+            "specs": {
+              "Display": "1.3 inches",
+              "Battery Life": "Up to 72 hours"
+            },
+            "image": "ticwatche3.jpg",
+            "stock": 20
+          },
+          {
+            "id": "208",
+            "name": "Skagen Falster 3",
+            "description": "Stylish minimalist smartwatch",
+            "price": 295,
+            "specs": {
+              "Display": "1.3 inches",
+              "Battery Life": "Up to 24 hours"
+            },
+            "image": "skagenfalster3.jpg",
+            "stock": 18
+          },
+          {
+            "id": "209",
+            "name": "Moto 360 (3rd Gen)",
+            "description": "Classic design with modern features",
+            "price": 299,
+            "specs": {
+              "Display": "1.2 inches",
+              "Battery Life": "Up to 24 hours"
+            },
+            "image": "moto360gen3.jpg",
+            "stock": 22
+          },
+          {
+            "id": "210",
+            "name": "Polar Vantage V2",
+            "description": "High-end GPS smartwatch",
+            "price": 499,
+            "specs": {
+              "Display": "1.2 inches",
+              "Battery Life": "Up to 40 hours"
+            },
+            "image": "polvantagev2.jpg",
+            "stock": 12
+          },
+          {
+            "id": "211",
+            "name": "Tag Heuer Connected (2020)",
+            "description": "Luxury Android smartwatch",
+            "price": 1800,
+            "specs": {
+              "Display": "1.2 inches",
+              "Battery Life": "Up to 40 hours"
+            },
+            "image": "polvantagev2.jpg",
+            "stock": 16
+          },{
+            "id": "212",
+            "name": "Montblanc Summit 2+",
+            "description": "Luxury smartwatch with Wear OS",
+            "price": 1095,
+            "specs": {
+              "Display": "1.2 inches",
+              "Battery Life": "Up to 24 hours"
+            },
+            "image": "montblancsummit2+.jpg",
+            "stock": 8
+          },
+          {
+            "id": "213",
+            "name": "Suunto 3 Fitness",
+            "description": "GPS smartwatch for fitness enthusiasts",
+            "price": 229,
+            "specs": {
+              "Display": "1.1 inches",
+              "Battery Life": "Up to 5 days"
+            },
+            "image": "suunto3fitness.jpg",
+            "stock": 28
+          },
+          {
+            "id": "214",
+            "name": "Amazfit GTS 2",
+            "description": "Affordable smartwatch with AMOLED display",
+            "price": 169,
+            "specs": {
+              "Display": "1.65 inches",
+              "Battery Life": "Up to 20 days"
+            },
+            "image": "amazfitgts2.jpg",
+            "stock": 32
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Laptops",
+        "image":"image/i/products/product-laptop-1.png",
+        "products": [
+          {
+            "id": "301",
+            "name": "Dell XPS 13",
+            "description": "Compact and powerful laptop",
+            "price": 999,
+            "specs": {
+              "Display": "13.4 inches",
+              "RAM": "8GB",
+              "Storage": "256GB"
+            },
+            "image": "dellxps13.jpg",
+            "stock": 15
+          },
+          {
+            "id": "302",
+            "name": "HP Envy x360",
+            "description": "Convertible laptop",
+            "price": 699,
+            "specs": {
+              "Display": "15.6 inches",
+              "RAM": "16GB",
+              "Storage": "512GB"
+            },
+            "image": "hpenvyx360.jpg",
+            "stock": 25
+          },
+          {
+            "id": "303",
+            "name": "Apple MacBook Air",
+            "description": "Sleek and powerful MacBook",
+            "price": 1099,
+            "specs": {
+              "Display": "13.3 inches",
+              "RAM": "8GB",
+              "Storage": "512GB"
+            },
+            "image": "applemacbookair.jpg",
+            "stock": 20
+          },
+          {
+            "id": "304",
+            "name": "Lenovo ThinkPad X1 Carbon",
+            "description": "Lightweight business laptop",
+            "price": 1299,
+            "specs": {
+              "Display": "14 inches",
+              "RAM": "16GB",
+              "Storage": "1TB"
+            },
+            "image": "lenovothinkpadx1carbon.jpg",
+            "stock": 10
+          },
+          {
+            "id": "305",
+            "name": "Asus ZenBook 14",
+            "description": "Compact and feature-rich laptop",
+            "price": 599,
+            "specs": {
+              "Display": "14 inches",
+              "RAM": "8GB",
+              "Storage": "256GB"
+            },
+            "image": "asuszenbook14.jpg",
+            "stock": 30
+          },
+          {
+            "id": "306",
+            "name": "Microsoft Surface Laptop 3",
+            "description": "Premium laptop with Windows",
+            "price": 999,
+            "specs": {
+              "Display": "13.5 inches",
+              "RAM": "8GB",
+              "Storage": "256GB"
+            },
+            "image": "microsoftsurfaceaptop3.jpg",
+            "stock": 18
+          },
+          {
+            "id": "307",
+            "name": "Acer Predator Helios 300",
+            "description": "Gaming laptop with powerful specs",
+            "price": 899,
+            "specs": {
+              "Display": "15.6 inches",
+              "RAM": "16GB",
+              "Storage": "512GB"
+            },
+            "image": "acerpredatorhelios300.jpg",
+            "stock": 22
+          },
+          {
+            "id": "308",
+            "name": "MSI PS65",
+            "description": "Creative laptop with vibrant display",
+            "price": 799,
+            "specs": {
+              "Display": "15.6 inches",
+              "RAM": "8GB",
+              "Storage": "256GB"
+            },
+            "image": "msips65.jpg",
+            "stock": 25
+          },
+          {
+            "id": "309",
+            "name": "Razer Blade 15",
+            "description": "Slim gaming laptop",
+            "price": 1399,
+            "specs": {
+              "Display": "15.6 inches",
+              "RAM": "16GB",
+              "Storage": "512GB"
+            },
+            "image": "razerblade15.jpg",
+            "stock": 12
+          },
+          {
+            "id": "310",
+            "name": "Google Pixelbook Go",
+            "description": "Chromebook with Google Assistant",
+            "price": 649,
+            "specs": {
+              "Display": "13.3 inches",
+              "RAM": "8GB",
+              "Storage": "64GB"
+            },
+            "image": "googlepixelbookgo.jpg",
+            "stock": 28
+          },
+          {
+            "id": "311",
+            "name": "Samsung Galaxy Book Flex",
+            "description": "2-in-1 laptop with flexible design",
+            "price": 899,
+            "specs": {
+              "Display": "15.6 inches",
+              "RAM": "8GB",
+              "Storage": "256GB"
+            },
+            "image": "samsunggalaxybookflex.jpg",
+            "stock": 20
+          },
+          {
+            "id": "312",
+            "name": "Dell Inspiron 15 5000",
+            "description": "Budget-friendly laptop for everyday use",
+            "price": 499,
+            "specs": {
+              "Display": "15.6 inches",
+              "RAM": "4GB",
+              "Storage": "1TB"
+            },
+            "image": "dellinspiron155000.jpg",
+            "stock": 35
+          },
+          {
+            "id": "313",
+            "name": "HP Pavilion Gaming 15",
+            "description": "Gaming laptop with NVIDIA graphics",
+            "price": 799,
+            "specs": {
+              "Display": "15.6 inches",
+              "RAM": "8GB",
+              "Storage": "512GB"
+            },
+            "image": "hppaviliongaming15.jpg",
+            "stock": 25
+          },
+          {
+            "id": "314",
+            "name": "Lenovo IdeaPad 330S",
+            "description": "Slim and lightweight laptop for portability",
+            "price": 699,
+            "specs": {
+              "Display": "14 inches",
+              "RAM": "8GB",
+              "Storage": "256GB"
+            },
+            "image": "lenovoideapad330s.jpg",
+            "stock": 30
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Speakers",
+        "image":"image/i/products/product-spaker-1.png",
+        "products": [
+          {
+            "id": "401",
+            "name": "Bose SoundLink Color II",
+            "description": "Portable Bluetooth speaker",
+            "price": 129,
+            "specs": {
+              "Battery Life": "Up to 8 hours",
+              "Water Resistance": "IPX4"
+            },
+            "image": "bossoundlinkii.jpg",
+            "stock": 30
+          },
+          {
+            "id": "402",
+            "name": "JBL Flip 5",
+            "description": "Waterproof portable speaker",
+            "price": 99,
+            "specs": {
+              "Battery Life": "Up to 20 hours",
+              "Water Resistance": "IPX7"
+            },
+            "image": "jblflip5.jpg",
+            "stock": 40
+          },
+          {
+            "id": "403",
+            "name": "Sony SRS-XB43",
+            "description": "Extra Bass portable speaker",
+            "price": 149,
+            "specs": {
+              "Battery Life": "Up to 24 hours",
+              "Water Resistance": "IP67"
+            },
+            "image": "sonysrsxb43.jpg",
+            "stock": 25
+          },
+          {
+            "id": "404",
+            "name": "Ultimate Ears Wonderboom",
+            "description": "Compact waterproof speaker",
+            "price": 79,
+            "specs": {
+              "Battery Life": "Up to 10 hours",
+              "Water Resistance": "IPX7"
+            },
+            "image": "ultimateearswonderboom.jpg",
+            "stock": 35
+          },
+          {
+            "id": "405",
+            "name": "Beats Pill+",
+            "description": "Portable speaker with Apple W1 chip",
+            "price": 199,
+            "specs": {
+              "Battery Life": "Up to 12 hours",
+              "Water Resistance": "None"
+            },
+            "image": "beatspill+.jpg",
+            "stock": 20
+          },
+          {
+            "id": "406",
+            "name": "Anker Soundcore Flare 2",
+            "description": "Waterproof speaker with LED lights",
+            "price": 59,
+            "specs": {
+              "Battery Life": "Up to 12 hours",
+              "Water Resistance": "IPX7"
+            },
+            "image": "ankersoundcoreflare2.jpg",
+            "stock": 40
+          },
+          {
+            "id": "407",
+            "name": "JBL Charge 4",
+            "description": "Waterproof speaker with power bank",
+            "price": 149,
+            "specs": {
+              "Battery Life": "Up to 20 hours",
+              "Water Resistance": "IPX7"
+            },
+            "image": "jblcharge4.jpg",
+            "stock": 30
+          },
+          {
+            "id": "408",
+            "name": "Bose SoundLink Revolve+",
+            "description": "360-degree portable speaker",
+            "price": 299,
+            "specs": {
+              "Battery Life": "Up to 16 hours",
+              "Water Resistance": "IPX4"
+            },
+            "image": "bossoundlinkrevolve+.jpg",
+            "stock": 25
+          },
+          {
+            "id": "409",
+            "name": "Harman Kardon Onyx Studio 6",
+            "description": "Wireless speaker with rechargeable battery",
+            "price": 249,
+            "specs": {
+              "Battery Life": "Up to 8 hours",
+              "Water Resistance": "None"
+            },
+            "image": "harmonkardononyxstudio6.jpg",
+            "stock": 20
+          },
+          {
+            "id": "410",
+            "name": "Libratone Zipp 2",
+            "description": "Wireless speaker with 360-degree sound",
+            "price": 199,
+            "specs": {
+              "Battery Life": "Up to 12 hours",
+              "Water Resistance": "IPX4"
+            },
+            "image": "libratonezipp2.jpg",
+            "stock": 30
+          },
+          {
+            "id": "411",
+            "name": "Marshall Woburn II",
+            "description": "Wireless speaker with vintage design",
+            "price": 399,
+            "specs": {
+              "Battery Life": "None (Wired)",
+              "Water Resistance": "None"
+            },
+            "image": "marshallwoburnii.jpg",
+            "stock": 20
+          },
+          {
+            "id": "412",
+            "name": "Bose Home Speaker 500",
+            "description": "Smart speaker with Wi-Fi and Bluetooth",
+            "price": 549,
+            "specs": {
+              "Battery Life": "None (Wired)",
+              "Water Resistance": "None"
+            },
+            "image": "bosehomespeaker500.jpg",
+            "stock": 25
+          },
+          {
+            "id": "413",
+            "name": "Sonos One (Gen 2)",
+            "description": "Smart speaker with Alexa and Google Assistant",
+            "price": 199,
+            "specs": {
+              "Battery Life": "None (Wired)",
+              "Water Resistance": "None"
+            },
+            "image": "sonosonegen2.jpg",
+            "stock": 30
+          },
+          {
+            "id": "414",
+            "name": "Yamaha MusicCast 50",
+            "description": "Wireless speaker with Wi-Fi and Bluetooth",
+            "price": 499,
+            "specs": {
+              "Battery Life": "None (Wired)",
+              "Water Resistance": "None"
+            },
+            "image": "yamamahifimusiccast50.jpg",
+            "stock": 20
+          }
+        ]
+      },
+        {
+          "id": "5",
+          "name": "Storage Drives",
+          "image":"image/i/category-drive/drive.png",
+          "products": [
+            {
+              "id": "501",
+              "name": "Western Digital My Passport",
+              "description": "Portable external hard drive",
+              "price": 69,
+              "specs": {
+                "Capacity": "1TB",
+                "Interface": "USB 3.2"
+              },
+              "image": "wdmypassport.jpg",
+              "stock": 25
+            },
+            {
+              "id": "502",
+              "name": "SanDisk Extreme Portable SSD",
+              "description": "High-speed portable SSD",
+              "price": 129,
+              "specs": {
+                "Capacity": "500GB",
+                "Interface": "USB 3.2"
+              },
+              "image": "sandiskextreme.jpg",
+              "stock": 30
+            },
+            {
+              "id": "503",
+              "name": "Seagate Backup Plus",
+              "description": "Desktop external hard drive",
+              "price": 99,
+              "specs": {
+                "Capacity": "2TB",
+                "Interface": "USB 3.0"
+              },
+              "image": "seagatebackupplus.jpg",
+              "stock": 20
+            },
+            {
+              "id": "504",
+              "name": "Crucial X8 Portable SSD",
+              "description": "Fast and rugged portable SSD",
+              "price": 149,
+              "specs": {
+                "Capacity": "1TB",
+                "Interface": "USB 3.2"
+              },
+              "image": "crucialx8.jpg",
+              "stock": 25
+            },
+            {
+              "id": "505",
+              "name": "Toshiba Canvio Ready",
+              "description": "Portable external hard drive",
+              "price": 79,
+              "specs": {
+                "Capacity": "1TB",
+                "Interface": "USB 3.0"
+              },
+              "image": "toshibacanvio.jpg",
+              "stock": 30
+            },
+            {
+              "id": "506",
+              "name": "ADATA HD710 Pro",
+              "description": "Rugged and water-resistant external hard drive",
+              "price": 89,
+              "specs": {
+                "Capacity": "1TB",
+                "Interface": "USB 3.1"
+              },
+              "image": "adatahd710pro.jpg",
+              "stock": 20
+            },
+            {
+              "id": "507",
+              "name": "Samsung T5 Portable SSD",
+              "description": "Fast and compact portable SSD",
+              "price": 179,
+              "specs": {
+                "Capacity": "500GB",
+                "Interface": "USB 3.2"
+              },
+              "image": "samsungt5.jpg",
+              "stock": 25
+            },
+            {
+              "id": "508",
+              "name": "G-Technology G-Drive Mobile SSD",
+              "description": "High-speed portable SSD for creative pros",
+              "price": 299,
+              "specs": {
+                "Capacity": "1TB",
+                "Interface": "USB 3.2"
+              },
+              "image": "gtechgdrivemobilessd.jpg",
+              "stock": 15
+            },
+            {
+              "id": "509",
+              "name": "Transcend StoreJet 25M3",
+              "description": "Shock-resistant portable external hard drive",
+              "price": 69,
+              "specs": {
+                "Capacity": "1TB",
+                "Interface": "USB 3.0"
+              },
+              "image": "transcendstorejet25m3.jpg",
+              "stock": 30
+            },
+            {
+              "id": "510",
+              "name": "LaCie Rugged SSD",
+              "description": "Tough and fast portable SSD",
+              "price": 249,
+              "specs": {
+                "Capacity": "500GB",
+                "Interface": "USB 3.2"
+              },
+              "image": "lacieruggedssd.jpg",
+              "stock": 20
+            },
+            {
+              "id": "511",
+              "name": "OWC Envoy Pro EX",
+              "description": "High-performance portable SSD",
+              "price": 199,
+              "specs": {
+                "Capacity": "1TB",
+                "Interface": "USB 3.2"
+              },
+              "image": "owcenvoyproex.jpg",
+              "stock": 25
+            },
+            {
+              "id": "512",
+              "name": "Corsair Voyager GS",
+              "description": "Portable external SSD for gaming",
+              "price": 229,
+              "specs": {
+                "Capacity": "1TB",
+                "Interface": "USB 3.2"
+              },
+              "image": "corsairvoyagergs.jpg",
+              "stock": 20
+            },
+            {
+              "id": "513",
+              "name": "PNY Pro Elite Portable SSD",
+              "description": "Fast and secure portable SSD",
+              "price": 179,
+              "specs": {
+                "Capacity": "500GB",
+                "Interface": "USB 3.2"
+              },
+              "image": "pnyproelite.jpg",
+              "stock": 30
+            },
+            {
+              "id": "514",
+              "name": "Silicon Power PC60",
+              "description": "Portable external SSD with USB-C",
+              "price": 149,
+              "specs": {
+                "Capacity": "512GB",
+                "Interface": "USB 3.2"
+              },
+              "image": "siliconpowerpc60.jpg",
+              "stock": 25
+            },
+            {
+              "id": "515",
+              "name": "Mushkin Triactor 2.5",
+              "description": "Portable external hard drive with rugged design",
+              "price": 99,
+              "specs": {
+                "Capacity": "1TB",
+                "Interface": "USB 3.0"
+              },
+              "image": "mushkintriactor.jpg",
+              "stock": 20
+            }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Daily Essentials",
+        "image": "image/i/banner-hair-dryer/banner-hair-dryer-480.png",
+        "products": [
+          {
+            "id": "601",
+            "name": "Anker PowerBank",
+            "description": "Portable power bank",
+            "price": 25,
+            "specs": {
+              "Capacity": "10000mAh",
+              "Ports": "2x USB"
+            },
+            "image": "ankerpowerbank.jpg",
+            "stock": 40
+          },
+          {
+            "id": "602",
+            "name": "JBL Earbuds",
+            "description": "Wireless earbuds",
+            "price": 49,
+            "specs": {
+              "Battery Life": "Up to 5 hours",
+              "Water Resistance": "IPX4"
+            },
+            "image": "jblearbuds.jpg",
+            "stock": 35
+          },
+          {
+            "id": "603",
+            "name": "Sony Wireless Speaker",
+            "description": "Waterproof Bluetooth speaker",
+            "price": 69,
+            "specs": {
+              "Battery Life": "Up to 12 hours",
+              "Water Resistance": "IPX7"
+            },
+            "image": "sonyspeaker.jpg",
+            "stock": 20
+          },
+          {
+            "id": "604",
+            "name": "RavPower Portable Charger",
+            "description": "High-capacity power bank",
+            "price": 30,
+            "specs": {
+              "Capacity": "20000mAh",
+              "Ports": "3x USB"
+            },
+            "image": "ravpowercharger.jpg",
+            "stock": 50
+          },
+          {
+            "id": "605",
+            "name": "Beats Solo Headphones",
+            "description": "Wireless on-ear headphones",
+            "price": 99,
+            "specs": {
+              "Battery Life": "Up to 22 hours",
+              "Weight": "215g"
+            },
+            "image": "beatssolo.jpg",
+            "stock": 15
+          },
+          {
+            "id": "606",
+            "name": "Google Chromecast",
+            "description": "Streaming media player",
+            "price": 39,
+            "specs": {
+              "Resolution": "Up to 4K",
+              "Connectivity": "Wi-Fi, HDMI"
+            },
+            "image": "googlechromecast.jpg",
+            "stock": 30
+          },
+          {
+            "id": "607",
+            "name": "Amazon Echo Dot",
+            "description": "Smart speaker with Alexa",
+            "price": 49,
+            "specs": {
+              "Speaker Size": "1.6 inches",
+              "Connectivity": "Wi-Fi, Bluetooth"
+            },
+            "image": "echo-dot.jpg",
+            "stock": 25
+          },
+          {
+            "id": "608",
+            "name": "Nintendo Switch",
+            "description": "Hybrid gaming console",
+            "price": 299,
+            "specs": {
+              "Screen Size": "6.2 inches",
+              "Battery Life": "Up to 9 hours"
+            },
+            "image": "nintendoswitch.jpg",
+            "stock": 10
+          },
+          {
+            "id": "609",
+            "name": "Canon EOS Camera",
+            "description": "Digital single-lens reflex camera",
+            "price": 599,
+            "specs": {
+              "Sensor Type": "CMOS",
+              "Resolution": "24.2MP"
+            },
+            "image": "canoneos.jpg",
+            "stock": 5
+          },
+          {
+            "id": "610",
+            "name": "Samsung Galaxy Watch",
+            "description": "Smartwatch with fitness tracking",
+            "price": 279,
+            "specs": {
+              "Display Size": "1.2 inches",
+              "Battery Life": "Up to 4 days"
+            },
+            "image": "samsunggalaxywatch.jpg",
+            "stock": 12
+          },
+          {
+            "id": "611",
+            "name": "Bose QuietComfort Headphones",
+            "description": "Noise-cancelling wireless headphones",
+            "price": 349,
+            "specs": {
+              "Battery Life": "Up to 24 hours",
+              "Weight": "235g"
+            },
+            "image": "bosequietcomfort.jpg",
+            "stock": 8
+          },
+          {
+            "id": "612",
+            "name": "Dell Inspiron Laptop",
+            "description": "15.6-inch Full HD laptop",
+            "price": 529,
+            "specs": {
+              "Processor": "Intel Core i5",
+              "RAM": "8GB DDR4"
+            },
+            "image": "dellinspiron.jpg",
+            "stock": 18
+          },
+          {
+            "id": "613",
+            "name": "Fitbit Charge Fitness Tracker",
+            "description": "Water-resistant fitness tracker",
+            "price": 69,
+            "specs": {
+              "Battery Life": "Up to 7 days",
+              "Water Resistance": "Up to 50 meters"
+            },
+            "image": "fitbitcharge.jpg",
+            "stock": 22
+          },
+          {
+            "id": "614",
+            "name": "Apple AirPods Pro",
+            "description": "Wireless earbuds with noise cancellation",
+            "price": 249,
+            "specs": {
+              "Battery Life": "Up to 5 hours",
+              "Weight": "5.4g each"
+            },
+            "image": "appleairpodspro.jpg",
+            "stock": 12
+          },
+          {
+            "id": "615",
+            "name": "Microsoft Xbox Controller",
+            "description": "Wireless gaming controller",
+            "price": 59,
+            "specs": {
+              "Battery Life": "Up to 40 hours",
+              "Connectivity": "Bluetooth, Wireless"
+            },
+            "image": "microsoftxboxcontroller.jpg",
+            "stock": 25
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "Gaming Consoles",
+        "image": "image/i/banner-gaming-consoles/banner-gaming-consoles-480.png",
+        "products": [
+          {
+            "id": "701",
+            "name": "PlayStation 5",
+            "description": "Next-gen gaming console with ray tracing",
+            "price": 499,
+            "specs": {
+              "Processor": "AMD Zen 2 CPU",
+              "Storage": "825GB SSD"
+            },
+            "image": "ps5.jpg",
+            "stock": 20
+          },
+          {
+            "id": "702",
+            "name": "Xbox Series X",
+            "description": "High-performance gaming console with quick resume",
+            "price": 599,
+            "specs": {
+              "Processor": "Custom AMD Zen 2 CPU",
+              "Memory": "16GB GDDR6 RAM"
+            },
+            "image": "xbox-series-x.jpg",
+            "stock": 15
+          },
+          {
+            "id": "703",
+            "name": "Nintendo Switch OLED",
+            "description": "Hybrid gaming console with OLED screen",
+            "price": 359,
+            "specs": {
+              "Screen Size": "7-inch OLED",
+              "Battery Life": "Up to 9 hours"
+            },
+            "image": "nintendo-switch-oled.jpg",
+            "stock": 30
+          },
+          {
+            "id": "704",
+            "name": "PlayStation 4 Pro",
+            "description": "Enhanced PS4 console with 4K gaming",
+            "price": 399,
+            "specs": {
+              "Processor": "x86-64 AMD Jaguar 8-core",
+              "Storage": "1TB HDD"
+            },
+            "image": "ps4-pro.jpg",
+            "stock": 25
+          },
+          {
+            "id": "705",
+            "name": "Xbox One X",
+            "description": "High-end gaming console with 4K resolution",
+            "price": 499,
+            "specs": {
+              "Processor": "Custom AMD Scorpio CPU",
+              "Memory": "12GB GDDR5 RAM"
+            },
+            "image": "xbox-one-x.jpg",
+            "stock": 18
+          },
+          {
+            "id": "706",
+            "name": "Nintendo Switch Lite",
+            "description": "Dedicated handheld gaming console",
+            "price": 259,
+            "specs": {
+              "Screen Size": "5.56-inch LCD",
+              "Battery Life": "Up to 7 hours"
+            },
+            "image": "nintendo-switch-lite.jpg",
+            "stock": 35
+          },
+          {
+            "id": "707",
+            "name": "PlayStation 4 Slim",
+            "description": "Slimmer version of the PS4 console",
+            "price": 299,
+            "specs": {
+              "Processor": "x86-64 AMD Jaguar 8-core",
+              "Storage": "500GB HDD"
+            },
+            "image": "ps4-slim.jpg",
+            "stock": 28
+          },
+          {
+            "id": "708",
+            "name": "Xbox One S",
+            "description": "Mid-range gaming console with 4K streaming",
+            "price": 349,
+            "specs": {
+              "Processor": "Custom AMD Jaguar CPU",
+              "Memory": "8GB DDR3 RAM"
+            },
+            "image": "xbox-one-s.jpg",
+            "stock": 22
+          },
+          {
+            "id": "709",
+            "name": "Sega Genesis Mini",
+            "description": "Retro gaming console with 40 built-in games",
+            "price": 79,
+            "specs": {
+              "Processors": "Quad-core CPU",
+              "Storage": "Built-in game storage"
+            },
+            "image": "segagenesismini.jpg",
+            "stock": 40
+          },
+          {
+            "id": "710",
+            "name": "SNK Neo Geo Mini",
+            "description": "Portable retro gaming console",
+            "price": 129,
+            "specs": {
+              "Screen Size": "3.5-inch LCD",
+              "Battery Life": "Up to 6 hours"
+            },
+            "image": "snkneogeomini.jpg",
+            "stock": 18
+          },
+          {
+            "id": "711",
+            "name": "Atari VCS",
+            "description": "Modern retro-style gaming console",
+            "price": 399,
+            "specs": {
+              "Processor": "AMD Ryzen CPU",
+              "Storage": "8GB RAM, 32GB Storage"
+            },
+            "image": "atarivcs.jpg",
+            "stock": 12
+          },
+          {
+            "id": "712",
+            "name": "Intellivision Amico",
+            "description": "Family-friendly gaming console",
+            "price": 249,
+            "specs": {
+              "Processor": "Qualcomm Snapdragon CPU",
+              "Storage": "32GB Storage, Expandable"
+            },
+            "image": "intellivisionamico.jpg",
+            "stock": 20
+          },
+          {
+            "id": "713",
+            "name": "Nintendo 64 Classic",
+            "description": "Retro gaming console with 20 built-in games",
+            "price": 99,
+            "specs": {
+              "Processors": "Quad-core CPU",
+              "Storage": "Built-in game storage"
+            },
+            "image": "nintendo64classic.jpg",
+            "stock": 30
+          },
+          {
+            "id": "714",
+            "name": "PlayStation Classic",
+            "description": "Mini retro gaming console with 20 games",
+            "price": 89,
+            "specs": {
+              "Processors": "Quad-core CPU",
+              "Storage": "Built-in game storage"
+            },
+            "image": "playstationclassic.jpg",
+            "stock": 25
+          },
+          {
+            "id": "715",
+            "name": "Xbox Series S",
+            "description": "Digital-only next-gen gaming console",
+            "price": 299,
+            "specs": {
+              "Processor": "Custom AMD Zen 2 CPU",
+              "Storage": "512GB SSD"
+            },
+            "image": "xbox-series-s.jpg",
+            "stock": 18
+          }
+        ]
+      }
+      
+      
+    ]
+  }

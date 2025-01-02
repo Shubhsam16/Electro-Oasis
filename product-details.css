@@ -1,0 +1,61 @@
+/* Add some basic styling to make it look decent */
+body {
+    font-family: Arial, sans-serif;
+    justify-items: center;
+}
+.product-details {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.buy-now {
+    background-color: #03A9F4;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    margin: 15px;
+}
+
+button:hover {
+    background-color: #FFC107;
+}
+.qty-container {
+display: flex;
+align-items: center;
+border: 1px solid #ccc;
+width: fit-content;
+padding: 0 5px;
+border-radius: 5px;
+box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.qty-btn {
+    background-color: #f0f0f0;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.qty-btn:hover {
+    background-color: #ddd;
+}
+
+.qty-input {
+    border: none;
+    text-align: center;
+    width: 40px;
+    font-size: 16px;
+    padding: 10px 0;
+}
+
+.qty-input:focus {
+    outline: none;
+}

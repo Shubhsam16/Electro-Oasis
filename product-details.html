@@ -1,0 +1,86 @@
+
+<!-- product-details.html (updated) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details</title>
+    <link rel="stylesheet" href="product-details.css">
+    <script src="product-details.js" defer async></script>
+</head>
+<body>
+    <div class="product-details" id="productDetails"></div>
+    <script>
+        function updateQuantity(val) {
+    var qty = document.getElementById('qty');
+    var currentVal = parseInt(qty.value);
+    if (isNaN(currentVal) || currentVal < 1) currentVal = 1;
+    qty.value = currentVal + val;
+    if (qty.value < 1) qty.value = 1;
+}
+        // Get the URL parameters
+const url = new URL(window.location.href);
+const productID = url.searchParams.get('id');
+
+// Validate the id (should be a non-empty string)
+if (!productID|| typeof productID !== 'string') {
+    document.getElementById('productDetails').innerHTML = `
+        <h1>Invalid Product ID</h1>
+        <p>Please ensure the URL includes a valid <code>id</code> parameter.</p>
+    `;
+} else {
+    // Fetch the products data
+    fetch('products.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
+        
+        .then(data => {
+            // Find the product by ID (using optional chaining for safety)
+            const product = data.products?.find(p => p.id === productID);
+
+            if (product) {
+                // Render the product details
+                const productDetails = document.getElementById('productDetails');
+                productDetails.innerHTML = `
+                    <h1>${product.name}</h1>
+                    <img src="${product.image}" alt="${product.name}">
+                    <p>Price: $${product.price}</p>
+                    <p>Stock: ${product.stock} units</p>
+                    <h3>Specifications:</h3>
+                    <ul class="specs-list">
+                    ${Object.keys(product.specs ?? {}).map(spec => `<li><strong>${spec}:</strong> ${product.specs[spec]}</li>`).join('')}
+                    </ul>
+                `;
+            } 
+            else {
+                // Handle the "Product not found" scenario
+                document.getElementById('productDetails').innerHTML = `
+                    <h1>Product not found</h1>
+                    <p>Sorry, the product with ID <code>${id}</code> was not found in our database.</p>
+                `;
+            }
+        })
+        .catch(error => {
+            console.error('Error fetching or rendering product details:', error);
+            document.getElementById('productDetails').innerHTML = `
+                <h1>Error Loading Product</h1>
+                <p>An error occurred while loading the product details. Please try again later.</p>
+            `;
+        });}
+    </script>
+    
+    <div class="qty-container">
+        <button class="qty-btn minus" onclick="updateQuantity(-1)">-</button>
+        <input type="number" class="qty-input" id="qty" value="1" min="1">
+        <button class="qty-btn plus" onclick="updateQuantity(1)">+</button>
+    </div>
+    <button class="buy-now" id="buyNowButton" onclick="window.location.href='pay.html'">Buy Now</button>
+    <script></script>
+</body>
+</html>
+
