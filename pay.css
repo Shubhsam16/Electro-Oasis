@@ -5,6 +5,174 @@
     margin: 0;
     padding: 0;
 }
+header {
+    background: linear-gradient(to right, #03A9F4, #FFC107);
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    border-bottom: 3px solid #03A9F4;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.brand-logo {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+}
+
+.logo-icon {
+    font-size: 2rem;
+    margin-right: 0.5rem;
+    color: #FFC107; /* Warm orange color for the lightning bolt */
+}
+
+.logo-text {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2); /* Text shadow for depth */
+}
+
+.oasis-text {
+    /* color: #8BC34A; Soothing green for "Oasis" */
+    color:#333;
+    font-weight:bold;
+    margin-left: -5px; /* Slight adjustment for better spacing */
+    text-shadow: none;
+}
+
+.nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.nav-links a:hover {
+    color: #ccc;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    clear: both;
+}
+
+footer h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+footer p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+footer li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    color: #ccc;
+}
+.contact-us{
+    justify-content: center;
+    text-align: center;
+}
+.contact-us pre{
+    text-align: center;
+    justify-content: center;
+    font-size: medium;
+    font-weight: 200;
+}
+
+.social-links {
+    margin-top: 20px;
+}
+
+.social-links a {
+    margin-right: 20px;
+}
+
+.social-links i {
+    font-size: 1.5rem;
+    color: #fff;
+    transition: color 0.3s ease;
+}
+
+.social-links i:hover {
+    color: #ccc;
+}
+
+.copyright {
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
+
+/* Responsive Design */
+
+@media only screen and (max-width: 768px) {
+    .category-grid, .product-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .category-grid, .product-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .product-card, .category-card {
+        margin-bottom: 20px;
+    }
+    footer {
+        padding: 10px;
+    }
+    footer h2 {
+        font-size: 1.2rem;
+    }
+}
 
 
 .billing-container {
