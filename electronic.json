@@ -30,7 +30,7 @@
               "Processor": "A15 Bionic Chip",
               "Storage": "256GB"
             },
-            "image": "category-phone/P005.png",
+            "image": "P005.png",
             "stock": 30
           },
           {
@@ -100,7 +100,7 @@
             "id": "107",
             "name": "OnePlus 9 Pro",
             "image"
-: "",
+: "P006.png",
             "description": "Latest Samsung flagship","price"
 : 699.99,
             "stock": 60,
