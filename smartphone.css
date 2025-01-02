@@ -62,16 +62,6 @@ body, html {
     margin-right: 5px;
 }
 
-
-
-
-
-/* * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
 body, html {
     font-family: 'Segoe UI', Arial, sans-serif;
     line-height: 1.6;
@@ -96,7 +86,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 30px;
 }
 
 .nav-brand {
@@ -147,6 +136,8 @@ header {
     margin-left: 20px;
 }
 
+
+
 .nav-links a {
     color: #fff;
     text-decoration: none;
@@ -156,7 +147,6 @@ header {
 .nav-links a:hover {
     color: #ccc;
 }
-
 
 
 .product-card {
