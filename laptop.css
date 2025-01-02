@@ -63,6 +63,8 @@ body, html {
 }
 
 
+/* Navigation Bar */
+
 header {
     background: linear-gradient(to right, #03A9F4, #FFC107);
     color: #fff;
@@ -76,7 +78,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 30px;
 }
 
 .nav-brand {
@@ -127,6 +128,8 @@ header {
     margin-left: 20px;
 }
 
+
+
 .nav-links a {
     color: #fff;
     text-decoration: none;
@@ -136,7 +139,6 @@ header {
 .nav-links a:hover {
     color: #ccc;
 }
-
 
 
 .product-card {
