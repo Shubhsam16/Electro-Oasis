@@ -3,7 +3,7 @@
       {
         "id": "1",
         "name": "Smartphones",
-        "image":"image/i/category-phone/category-phone-480.png",
+        "image":"category-phone-480.png",
         "products": [
           {
             "id": "101",
@@ -16,7 +16,7 @@
               "RAM": "6GB",
               "Storage": "128GB"
             },
-            "image": "image/i/category-phone/category-phone-480.png",
+            "image": "category-phone-480.png",
             "stock": 50
           },
           {
@@ -30,14 +30,14 @@
               "Processor": "A15 Bionic Chip",
               "Storage": "256GB"
             },
-            "image": "image/i/category-phone/P005.png",
+            "image": "category-phone/P005.png",
             "stock": 30
           },
           {
             "id": "103",
             "name": "Nothing PHONE 1",
             "image"
-: "image/i/category-phone/P003 copy.png",
+: "P003 copy.png",
             "description": "Latest Samsung flagship",
             "price": 499.99,
             "stock": 100,
@@ -53,7 +53,7 @@
             "id": "104",
             "name": "Apple iPhone 13 Pro",
             "image"
-: "image/i/category-phone/P004 copy.png",
+: "P004 copy.png",
             "description": "Latest Samsung flagship",
             "price": 999.99,
             "stock": 50,
@@ -69,7 +69,7 @@
             "id": "105",
             "name": "Samsung Galaxy S22 Ultra",
             "image"
-: "image/i/category-phone/P005.png",
+: "P005.png",
             "description": "Latest Samsung flagship",
             "price": 899.99,
             "stock": 75,
@@ -85,7 +85,7 @@
             "id": "106",
             "name": "Google Pixel 6 Pro",
             "image"
-: "image/i/category-phone/P006.png",
+: "P006.png",
             "description": "Latest Samsung flagship",
             "price": 799.99,
             "stock": 40,
@@ -117,7 +117,7 @@
             "id": "108",
             "name": "Xiaomi Mi 11 Ultra",
             "image"
-: "image/i/category-phone/P008.jpeg",
+: "P008.jpeg",
             "description": "Latest Samsung flagship","price"
 : 649.99,
             "stock": 80,
@@ -133,7 +133,7 @@
             "id": "109",
             "name": "Oppo Find X4 Pro",
             "image"
-: "image/i/category-phone/P009 - Copy.png",
+: "P009 - Copy.png",
             "description": "Latest Samsung flagship","price"
 : 799.99,
             "stock": 45,
@@ -149,7 +149,7 @@
             "id": "110",
             "name": "Vivo X80 Pro",
             "image"
-: "image/i/category-phone/P010.png",
+: "P010.png",
             "description": "Latest Samsung flagship","price"
 : 749.99,
             "stock": 55,
@@ -165,7 +165,7 @@
             "id": "111",
             "name": "Huawei P40 Pro",
             "image"
-: "image/i/category-phone/P011 - Copy.png",
+: "P011 - Copy.png",
             "description": "Latest Samsung flagship","price"
 : 699.99,
             "stock": 50,
@@ -293,7 +293,7 @@
       {
         "id": "2",
         "name": "Smartwatches",
-        "image":"image/i/category-watch/category-watch-480.png",
+        "image":"category-watch-480.png",
         "products": [
           {
             "id": "201",
@@ -304,7 +304,7 @@
               "Display": "1.7 inches",
               "Battery Life": "Up to 18 hours"
             },
-            "image": "applewatch7.jpg",
+            "image": "201.1.webp",
             "stock": 20
           },
           {
@@ -316,7 +316,7 @@
               "Display": "1.3 inches",
               "Battery Life": "Up to 24 hours"
             },
-            "image": "fossilgen5.jpg",
+            "image": "202.1.webp",
             "stock": 40
           }, 
           {
@@ -328,7 +328,7 @@
               "Display": "1.4 inches",
               "Battery Life": "Up to 40 hours"
             },
-            "image": "samsunggalaxywatch4.jpg",
+            "image": "203.1.webp",
             "stock": 30
           },
           {
@@ -340,7 +340,7 @@
               "Display": "1.2 inches",
               "Battery Life": "Up to 2 weeks"
             },
-            "image": "garminforerunner945.jpg",
+            "image": "204.1.webp",
             "stock": 15
           },
           {
@@ -352,7 +352,7 @@
               "Display": "1.2 inches",
               "Battery Life": "Up to 2 weeks"
             },
-            "image": "huaweigt2.jpg",
+            "image": "205.1.webp",
             "stock": 25
           },
           {
@@ -364,7 +364,7 @@
               "Display": "1.58 inches",
               "Battery Life": "Up to 6 days"
             },
-            "image": "fitbitsense.jpg",
+            "image": "206.1.webp",
             "stock": 35
           },
           {
@@ -376,7 +376,7 @@
               "Display": "1.3 inches",
               "Battery Life": "Up to 72 hours"
             },
-            "image": "ticwatche3.jpg",
+            "image": "207.1.webp",
             "stock": 20
           },
           {
@@ -400,7 +400,7 @@
               "Display": "1.2 inches",
               "Battery Life": "Up to 24 hours"
             },
-            "image": "moto360gen3.jpg",
+            "image": "209.1.jpg",
             "stock": 22
           },
           {
@@ -412,7 +412,7 @@
               "Display": "1.2 inches",
               "Battery Life": "Up to 40 hours"
             },
-            "image": "polvantagev2.jpg",
+            "image": "210.1.webp",
             "stock": 12
           },
           {
@@ -424,7 +424,7 @@
               "Display": "1.2 inches",
               "Battery Life": "Up to 40 hours"
             },
-            "image": "polvantagev2.jpg",
+            "image": "211.1.webp",
             "stock": 16
           },{
             "id": "212",
@@ -435,7 +435,7 @@
               "Display": "1.2 inches",
               "Battery Life": "Up to 24 hours"
             },
-            "image": "montblancsummit2+.jpg",
+            "image": "212.1.jpg",
             "stock": 8
           },
           {
@@ -447,7 +447,7 @@
               "Display": "1.1 inches",
               "Battery Life": "Up to 5 days"
             },
-            "image": "suunto3fitness.jpg",
+            "image": "213.1.jpg",
             "stock": 28
           },
           {
@@ -459,7 +459,7 @@
               "Display": "1.65 inches",
               "Battery Life": "Up to 20 days"
             },
-            "image": "amazfitgts2.jpg",
+            "image": "214.1.jpg",
             "stock": 32
           }
         ]
@@ -467,7 +467,7 @@
       {
         "id": "3",
         "name": "Laptops",
-        "image":"image/i/products/product-laptop-1.png",
+        "image":"product-laptop-1.png",
         "products": [
           {
             "id": "301",
@@ -479,7 +479,7 @@
               "RAM": "8GB",
               "Storage": "256GB"
             },
-            "image": "dellxps13.jpg",
+            "image": "301.1 copy.jpg",
             "stock": 15
           },
           {
@@ -492,7 +492,7 @@
               "RAM": "16GB",
               "Storage": "512GB"
             },
-            "image": "hpenvyx360.jpg",
+            "image": "302.1.webp",
             "stock": 25
           },
           {
@@ -505,7 +505,7 @@
               "RAM": "8GB",
               "Storage": "512GB"
             },
-            "image": "applemacbookair.jpg",
+            "image": "303.1.webp",
             "stock": 20
           },
           {
@@ -518,7 +518,7 @@
               "RAM": "16GB",
               "Storage": "1TB"
             },
-            "image": "lenovothinkpadx1carbon.jpg",
+            "image": "302.1.avif",
             "stock": 10
           },
           {
@@ -531,7 +531,7 @@
               "RAM": "8GB",
               "Storage": "256GB"
             },
-            "image": "asuszenbook14.jpg",
+            "image": "305.1.webp",
             "stock": 30
           },
           {
@@ -544,7 +544,7 @@
               "RAM": "8GB",
               "Storage": "256GB"
             },
-            "image": "microsoftsurfaceaptop3.jpg",
+            "image": "306.1.webp",
             "stock": 18
           },
           {
@@ -557,7 +557,7 @@
               "RAM": "16GB",
               "Storage": "512GB"
             },
-            "image": "acerpredatorhelios300.jpg",
+            "image": "307.1.jpg",
             "stock": 22
           },
           {
@@ -570,7 +570,7 @@
               "RAM": "8GB",
               "Storage": "256GB"
             },
-            "image": "msips65.jpg",
+            "image": "308.1.webp",
             "stock": 25
           },
           {
@@ -583,7 +583,7 @@
               "RAM": "16GB",
               "Storage": "512GB"
             },
-            "image": "razerblade15.jpg",
+            "image": "309.1.jpg",
             "stock": 12
           },
           {
@@ -596,7 +596,7 @@
               "RAM": "8GB",
               "Storage": "64GB"
             },
-            "image": "googlepixelbookgo.jpg",
+            "image": "310.1.jpg",
             "stock": 28
           },
           {
@@ -609,7 +609,7 @@
               "RAM": "8GB",
               "Storage": "256GB"
             },
-            "image": "samsunggalaxybookflex.jpg",
+            "image": "311.1.jpg",
             "stock": 20
           },
           {
@@ -622,7 +622,7 @@
               "RAM": "4GB",
               "Storage": "1TB"
             },
-            "image": "dellinspiron155000.jpg",
+            "image": "312.1.jpg",
             "stock": 35
           },
           {
@@ -635,7 +635,7 @@
               "RAM": "8GB",
               "Storage": "512GB"
             },
-            "image": "hppaviliongaming15.jpg",
+            "image": "313.1 copy.webp",
             "stock": 25
           },
           {
@@ -648,7 +648,7 @@
               "RAM": "8GB",
               "Storage": "256GB"
             },
-            "image": "lenovoideapad330s.jpg",
+            "image": "314.1.webp",
             "stock": 30
           }
         ]
@@ -656,7 +656,7 @@
       {
         "id": "4",
         "name": "Speakers",
-        "image":"image/i/products/product-spaker-1.png",
+        "image":"product-spaker-1.png",
         "products": [
           {
             "id": "401",
@@ -667,7 +667,7 @@
               "Battery Life": "Up to 8 hours",
               "Water Resistance": "IPX4"
             },
-            "image": "bossoundlinkii.jpg",
+            "image": "401.1.webp",
             "stock": 30
           },
           {
@@ -679,7 +679,7 @@
               "Battery Life": "Up to 20 hours",
               "Water Resistance": "IPX7"
             },
-            "image": "jblflip5.jpg",
+            "image": "402.1.webp",
             "stock": 40
           },
           {
@@ -691,7 +691,7 @@
               "Battery Life": "Up to 24 hours",
               "Water Resistance": "IP67"
             },
-            "image": "sonysrsxb43.jpg",
+            "image": "403.1.webp",
             "stock": 25
           },
           {
@@ -703,7 +703,7 @@
               "Battery Life": "Up to 10 hours",
               "Water Resistance": "IPX7"
             },
-            "image": "ultimateearswonderboom.jpg",
+            "image": "404.1.webp",
             "stock": 35
           },
           {
@@ -715,7 +715,7 @@
               "Battery Life": "Up to 12 hours",
               "Water Resistance": "None"
             },
-            "image": "beatspill+.jpg",
+            "image": "405.1.webp",
             "stock": 20
           },
           {
@@ -727,7 +727,7 @@
               "Battery Life": "Up to 12 hours",
               "Water Resistance": "IPX7"
             },
-            "image": "ankersoundcoreflare2.jpg",
+            "image": "406.1.jpg",
             "stock": 40
           },
           {
@@ -739,7 +739,7 @@
               "Battery Life": "Up to 20 hours",
               "Water Resistance": "IPX7"
             },
-            "image": "jblcharge4.jpg",
+            "image": "407.1.jpg",
             "stock": 30
           },
           {
@@ -751,7 +751,7 @@
               "Battery Life": "Up to 16 hours",
               "Water Resistance": "IPX4"
             },
-            "image": "bossoundlinkrevolve+.jpg",
+            "image": "408.1.webp",
             "stock": 25
           },
           {
@@ -763,7 +763,7 @@
               "Battery Life": "Up to 8 hours",
               "Water Resistance": "None"
             },
-            "image": "harmonkardononyxstudio6.jpg",
+            "image": "409.1.webp",
             "stock": 20
           },
           {
@@ -775,7 +775,7 @@
               "Battery Life": "Up to 12 hours",
               "Water Resistance": "IPX4"
             },
-            "image": "libratonezipp2.jpg",
+            "image": "410.1.jpg",
             "stock": 30
           },
           {
@@ -787,7 +787,7 @@
               "Battery Life": "None (Wired)",
               "Water Resistance": "None"
             },
-            "image": "marshallwoburnii.jpg",
+            "image": "411.1.webp",
             "stock": 20
           },
           {
@@ -799,7 +799,7 @@
               "Battery Life": "None (Wired)",
               "Water Resistance": "None"
             },
-            "image": "bosehomespeaker500.jpg",
+            "image": "412.1.jpg",
             "stock": 25
           },
           {
@@ -811,7 +811,7 @@
               "Battery Life": "None (Wired)",
               "Water Resistance": "None"
             },
-            "image": "sonosonegen2.jpg",
+            "image": "413.1.webp",
             "stock": 30
           },
           {
@@ -823,7 +823,7 @@
               "Battery Life": "None (Wired)",
               "Water Resistance": "None"
             },
-            "image": "yamamahifimusiccast50.jpg",
+            "image": "414.1.webp",
             "stock": 20
           }
         ]
@@ -831,7 +831,7 @@
         {
           "id": "5",
           "name": "Storage Drives",
-          "image":"image/i/category-drive/drive.png",
+          "image":"drive.png",
           "products": [
             {
               "id": "501",
@@ -842,7 +842,7 @@
                 "Capacity": "1TB",
                 "Interface": "USB 3.2"
               },
-              "image": "wdmypassport.jpg",
+              "image": "501.1.webp",
               "stock": 25
             },
             {
@@ -854,7 +854,7 @@
                 "Capacity": "500GB",
                 "Interface": "USB 3.2"
               },
-              "image": "sandiskextreme.jpg",
+              "image": "502.1.jpg",
               "stock": 30
             },
             {
@@ -866,7 +866,7 @@
                 "Capacity": "2TB",
                 "Interface": "USB 3.0"
               },
-              "image": "seagatebackupplus.jpg",
+              "image": "503.1.jpg",
               "stock": 20
             },
             {
@@ -878,7 +878,7 @@
                 "Capacity": "1TB",
                 "Interface": "USB 3.2"
               },
-              "image": "crucialx8.jpg",
+              "image": "504.1.webp",
               "stock": 25
             },
             {
@@ -890,7 +890,7 @@
                 "Capacity": "1TB",
                 "Interface": "USB 3.0"
               },
-              "image": "toshibacanvio.jpg",
+              "image": "505.1.webp",
               "stock": 30
             },
             {
@@ -902,7 +902,7 @@
                 "Capacity": "1TB",
                 "Interface": "USB 3.1"
               },
-              "image": "adatahd710pro.jpg",
+              "image": "506.1.webp",
               "stock": 20
             },
             {
@@ -914,7 +914,7 @@
                 "Capacity": "500GB",
                 "Interface": "USB 3.2"
               },
-              "image": "samsungt5.jpg",
+              "image": "507.1.jpg",
               "stock": 25
             },
             {
@@ -926,7 +926,7 @@
                 "Capacity": "1TB",
                 "Interface": "USB 3.2"
               },
-              "image": "gtechgdrivemobilessd.jpg",
+              "image": "508.1.jpg",
               "stock": 15
             },
             {
@@ -938,7 +938,7 @@
                 "Capacity": "1TB",
                 "Interface": "USB 3.0"
               },
-              "image": "transcendstorejet25m3.jpg",
+              "image": "509.1.webp",
               "stock": 30
             },
             {
@@ -950,7 +950,7 @@
                 "Capacity": "500GB",
                 "Interface": "USB 3.2"
               },
-              "image": "lacieruggedssd.jpg",
+              "image": "510.1.webp",
               "stock": 20
             },
             {
@@ -962,7 +962,7 @@
                 "Capacity": "1TB",
                 "Interface": "USB 3.2"
               },
-              "image": "owcenvoyproex.jpg",
+              "image": "511.1.webp",
               "stock": 25
             },
             {
@@ -974,7 +974,7 @@
                 "Capacity": "1TB",
                 "Interface": "USB 3.2"
               },
-              "image": "corsairvoyagergs.jpg",
+              "image": "512.1.jpg",
               "stock": 20
             },
             {
@@ -986,7 +986,7 @@
                 "Capacity": "500GB",
                 "Interface": "USB 3.2"
               },
-              "image": "pnyproelite.jpg",
+              "image": "513.1.webp",
               "stock": 30
             },
             {
@@ -998,7 +998,7 @@
                 "Capacity": "512GB",
                 "Interface": "USB 3.2"
               },
-              "image": "siliconpowerpc60.jpg",
+              "image": "514.1.jpg",
               "stock": 25
             },
             {
@@ -1010,7 +1010,7 @@
                 "Capacity": "1TB",
                 "Interface": "USB 3.0"
               },
-              "image": "mushkintriactor.jpg",
+              "image": "515.1.jpg",
               "stock": 20
             }
         ]
@@ -1029,7 +1029,7 @@
               "Capacity": "10000mAh",
               "Ports": "2x USB"
             },
-            "image": "ankerpowerbank.jpg",
+            "image": "601.1.jpg",
             "stock": 40
           },
           {
@@ -1041,7 +1041,7 @@
               "Battery Life": "Up to 5 hours",
               "Water Resistance": "IPX4"
             },
-            "image": "jblearbuds.jpg",
+            "image": "602.1.webp",
             "stock": 35
           },
           {
@@ -1053,7 +1053,7 @@
               "Battery Life": "Up to 12 hours",
               "Water Resistance": "IPX7"
             },
-            "image": "sonyspeaker.jpg",
+            "image": "603.1.webp",
             "stock": 20
           },
           {
@@ -1065,7 +1065,7 @@
               "Capacity": "20000mAh",
               "Ports": "3x USB"
             },
-            "image": "ravpowercharger.jpg",
+            "image": "604.1.jpg",
             "stock": 50
           },
           {
@@ -1077,7 +1077,7 @@
               "Battery Life": "Up to 22 hours",
               "Weight": "215g"
             },
-            "image": "beatssolo.jpg",
+            "image": "605.1.webp",
             "stock": 15
           },
           {
@@ -1089,7 +1089,7 @@
               "Resolution": "Up to 4K",
               "Connectivity": "Wi-Fi, HDMI"
             },
-            "image": "googlechromecast.jpg",
+            "image": "606.1.jpg",
             "stock": 30
           },
           {
@@ -1101,7 +1101,7 @@
               "Speaker Size": "1.6 inches",
               "Connectivity": "Wi-Fi, Bluetooth"
             },
-            "image": "echo-dot.jpg",
+            "image": "607.1.webp",
             "stock": 25
           },
           {
@@ -1113,7 +1113,7 @@
               "Screen Size": "6.2 inches",
               "Battery Life": "Up to 9 hours"
             },
-            "image": "nintendoswitch.jpg",
+            "image": "608.1.jpg",
             "stock": 10
           },
           {
@@ -1125,7 +1125,7 @@
               "Sensor Type": "CMOS",
               "Resolution": "24.2MP"
             },
-            "image": "canoneos.jpg",
+            "image": "609.1.jpg",
             "stock": 5
           },
           {
@@ -1137,7 +1137,7 @@
               "Display Size": "1.2 inches",
               "Battery Life": "Up to 4 days"
             },
-            "image": "samsunggalaxywatch.jpg",
+            "image": "610.1.jpg",
             "stock": 12
           },
           {
@@ -1149,7 +1149,7 @@
               "Battery Life": "Up to 24 hours",
               "Weight": "235g"
             },
-            "image": "bosequietcomfort.jpg",
+            "image": "611.1.webp",
             "stock": 8
           },
           {
@@ -1161,7 +1161,7 @@
               "Processor": "Intel Core i5",
               "RAM": "8GB DDR4"
             },
-            "image": "dellinspiron.jpg",
+            "image": "612.1.webp",
             "stock": 18
           },
           {
@@ -1173,7 +1173,7 @@
               "Battery Life": "Up to 7 days",
               "Water Resistance": "Up to 50 meters"
             },
-            "image": "fitbitcharge.jpg",
+            "image": "613.1.webp",
             "stock": 22
           },
           {
@@ -1185,7 +1185,7 @@
               "Battery Life": "Up to 5 hours",
               "Weight": "5.4g each"
             },
-            "image": "appleairpodspro.jpg",
+            "image": "606.1.jpg",
             "stock": 12
           },
           {
@@ -1197,7 +1197,7 @@
               "Battery Life": "Up to 40 hours",
               "Connectivity": "Bluetooth, Wireless"
             },
-            "image": "microsoftxboxcontroller.jpg",
+            "image": "605.1.webp",
             "stock": 25
           }
         ]
