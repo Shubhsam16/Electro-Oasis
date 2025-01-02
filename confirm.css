@@ -1,0 +1,265 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+/* Navigation Bar */
+
+header {
+    background: linear-gradient(to right, #03A9F4, #FFC107);
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    border-bottom: 3px solid #03A9F4;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.brand-logo {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+}
+
+.logo-icon {
+    font-size: 2rem;
+    margin-right: 0.5rem;
+    color: #FFC107; /* Warm orange color for the lightning bolt */
+}
+
+.logo-text {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2); /* Text shadow for depth */
+}
+
+.oasis-text {
+    /* color: #8BC34A; Soothing green for "Oasis" */
+    color:#333;
+    font-weight:bold;
+    margin-left: -5px; /* Slight adjustment for better spacing */
+    text-shadow: none;
+}
+
+.nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.nav-links a:hover {
+    color: #ccc;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    position: relative;
+}
+
+.ticket-container {
+    background: #FFC107; /* A vibrant orange for a happy vibe */
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.ticket-number {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.confirmation-message {
+    background: #c6efce; /* Pastel green for confirmation */
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.confirmation-message h3 {
+    margin-top: 0;
+}
+
+button {
+    background: #8BC34A; /* Green for a positive action */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background: #3e8e41; /* Darker green on hover */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    clear: both;
+}
+
+footer h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+footer p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+footer li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    color: #ccc;
+}
+.contact-us{
+    justify-content: center;
+    text-align: center;
+}
+.contact-us pre{
+    text-align: center;
+    justify-content: center;
+    font-size: medium;
+    font-weight: 200;
+}
+
+.social-links {
+    margin-top: 20px;
+}
+
+.social-links a {
+    margin-right: 20px;
+}
+
+.social-links i {
+    font-size: 1.5rem;
+    color: #fff;
+    transition: color 0.3s ease;
+}
+
+.social-links i:hover {
+    color: #ccc;
+}
+
+.copyright {
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
+
+/* Responsive Design */
+
+@media only screen and (max-width: 768px) {
+    .category-grid, .product-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .category-grid, .product-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .product-card, .category-card {
+        margin-bottom: 20px;
+    }
+    footer {
+        padding: 10px;
+    }
+    footer h2 {
+        font-size: 1.2rem;
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) { /* Tablets and smaller */
+    .container {
+        max-width: 90%; /* Take up more space on smaller screens */
+        padding: 15px; /* Reduce padding for smaller screens */
+    }
+    .ticket-container {
+        padding: 15px; /* Reduce padding for smaller screens */
+    }
+    .confirmation-message {
+        padding: 15px; /* Reduce padding for smaller screens */
+    }
+    button {
+        padding: 8px 15px; /* Adjust button size for smaller screens */
+        font-size: 14px; /* Adjust font size for smaller screens */
+    }
+}
+
+@media (max-width: 480px) { /* Mobile Devices */
+    .container {
+        max-width: 100%; /* Take up full width on mobile */
+        padding: 10px; /* Minimal padding for mobile */
+        box-shadow: none; /* Remove shadow for a cleaner look on mobile */
+    }
+    .ticket-container, .confirmation-message {
+        padding: 10px; /* Minimal padding for mobile */
+        border-radius: 0; /* Remove rounded corners for a full-width look */
+    }
+    .ticket-number {
+        font-size: 18px; /* Smaller font size for mobile */
+    }
+    button {
+        width: 100%; /* Full-width button for easier tapping on mobile */
+        padding: 10px; /* Comfortable padding for mobile */
+        font-size: 16px; /* Clear font size for mobile */
+        margin-top: 15px; /* A bit more space on mobile */
+    }
+}
