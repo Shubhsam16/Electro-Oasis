@@ -116,7 +116,7 @@
             "id": "108",
             "name": "Xiaomi Mi 11 Ultra",
             "image"
-: "P008.jpeg",
+: "P107.jpeg",
             "description": "Latest Samsung flagship","price"
 : 649.99,
             "stock": 80,
@@ -180,7 +180,7 @@
             "id": "112",
             "name": "Asus ROG Phone 3",
             "image"
-: "https://via.placeholder.com/200x250/8BC34A/FFFFFF?text=Asus+ROG+Phone+3",
+: "P112.jpeg",
             "description": "Latest Samsung flagship","price"
 : 799.99,
             "stock": 40,
@@ -196,7 +196,7 @@
             "id": "113",
             "name": "LG G8X ThinQ",
             "image"
-: "https://via.placeholder.com/200x250/2196F3/FFFFFF?text=LG+G8X+Thinq",
+: "P113.jpeg",
             "description": "Latest Samsung flagship","price"
 : 599.99,
             "stock": 60,
@@ -212,7 +212,7 @@
             "id": "114",
             "name": "Motorola Razr 2022",
             "image"
-: "https://via.placeholder.com/200x250/FFC107/FFFFFF?text=Motorola+Razr+2022",
+: "P114.jpeg",
             "description": "Latest Samsung flagship","price"
 : 899.99,
             "stock": 30,
@@ -228,7 +228,7 @@
             "id": "115",
             "name": "Sony Xperia 1 III",
             "image"
-: "https://via.placeholder.com/200x250/0070FF/FFFFFF?text=Sony+Xperia+1+III",
+: "P115.jpeg",
             "description": "Latest Samsung flagship","price"
 : 799.99,
             "stock": 45,
@@ -244,7 +244,7 @@
             "id": "116",
             "name": "Google Pixel 5a",
             "image"
-: "https://via.placeholder.com/200x250/34A853/FFFFFF?text=Google+Pixel+5a",
+: "P116.jpeg",
             "description": "Latest Samsung flagship","price"
 : 499.99,
             "stock": 70,
@@ -260,7 +260,7 @@
             "id": "117",
             "name": "Samsung Galaxy A53 5G",
             "image"
-: "https://via.placeholder.com/200x250/34A85A/FFFFFF?text=Samsung+Galaxy+A53+5G",
+: "P117.jpeg",
             "description": "Latest Samsung flagship","price"
 : 449.99,
             "stock": 80,
@@ -275,7 +275,7 @@
           {
             "id": "118",
             "name": "OnePlus Nord N200 5G",
-            "image": "https://via.placeholder.com/200x250/000000/FFFFFF?text=OnePlus+Nord+N200+5G",
+            "image": "P118.jpeg",
             "description": "Latest Samsung flagship",
             "price": 399.99,
             "stock": 90,
@@ -387,7 +387,7 @@
               "Display": "1.3 inches",
               "Battery Life": "Up to 24 hours"
             },
-            "image": "skagenfalster3.jpg",
+            "image": "208.jpeg",
             "stock": 18
           },
           {
@@ -517,7 +517,7 @@
               "RAM": "16GB",
               "Storage": "1TB"
             },
-            "image": "302.1.avif",
+            "image": "304.jpeg",
             "stock": 10
           },
           {
@@ -678,7 +678,7 @@
               "Battery Life": "Up to 20 hours",
               "Water Resistance": "IPX7"
             },
-            "image": "402.1.webp",
+            "image": "402.jpeg",
             "stock": 40
           },
           {
